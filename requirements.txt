@@ -1,0 +1,4 @@
+Text based chat
+Video chat
+File sharing option
+Dark theme
